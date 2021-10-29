@@ -2,7 +2,7 @@
   "name": "demonodejs",
   "version": "2.0.0",
   "description": "This is demo app",
-  "main": "demonodejs\\routes\\index.js",
+  "main": "demonodejs/routes/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
